@@ -161,7 +161,7 @@ Copiar código
 ├── diagram.json
 └── libraries.txt
 7. Vídeo Demonstrativo
- (Insira aqui o link para o vídeo não listado no YouTube)
+https://youtu.be/SYpp5RNKpes
 
 8. Autores
 Rita de Cássia Gonçalves Rodrigues
